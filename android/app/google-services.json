@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394065234743",
+    "project_id": "facial-expression-feedback",
+    "storage_bucket": "facial-expression-feedback.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394065234743:android:17ca5b4c6f6ffa9aaa28b2",
+        "android_client_info": {
+          "package_name": "com.example.e_leaning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394065234743-q2q9bb60vd56hneiscuiumaekpaa1a6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-ysvPzp3M9i7Km1spKC1jYOcHrv7DKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394065234743-q2q9bb60vd56hneiscuiumaekpaa1a6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
